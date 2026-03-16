@@ -31,7 +31,7 @@ This version of the game is deployed using **Firebase Hosting** and works on des
 
 ## Game Page
 
-![Game Page](assert/game_page.png)
+![Game Page](game_page.png)
 
 ---
 
