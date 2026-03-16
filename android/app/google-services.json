@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687028189828",
+    "project_id": "tapsurvivor-88a47",
+    "storage_bucket": "tapsurvivor-88a47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687028189828:android:d52a2baab5bf77712ba0d1",
+        "android_client_info": {
+          "package_name": "com.example.tap_survivor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ECd-Z0oF6WIho01qKQQ7ciG0NGb4BLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
